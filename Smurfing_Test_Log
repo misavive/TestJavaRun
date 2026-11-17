@@ -1,0 +1,550 @@
+ *** Avispa Research Group - Misael Viveros Castro *** 
+  *** jNtcc Virtual Machine - Datos del Store *** 
+
+ Unidad de Tiempo --> 1 Generada... Thu Nov 05 18:29:47 COT 2026
+ Varname :smurfCounter::{0..20}
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser::{0..1}
+ Varname :reportUIF::{0..1}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 2 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :5
+Numero de Procesos Ejecutados :18
+ Varname :smurfCounter::{0..20}
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser::{0..1}
+ Varname :reportUIF::{0..1}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 3 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :5
+Numero de Procesos Ejecutados :26
+ Varname :smurfCounter::{0..20}
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser::{0..1}
+ Varname :reportUIF::{0..1}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 4 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :5
+Numero de Procesos Ejecutados :34
+ Varname :smurfCounter::{0..20}
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser::{0..1}
+ Varname :reportUIF::{0..1}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 5 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :5
+Numero de Procesos Ejecutados :47
+ Varname :smurfCounter::{0..20}
+ Varname :txnAmount = 9000
+ Varname :incoming = 1
+ Varname :blockUser::{0..1}
+ Varname :reportUIF::{0..1}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 6 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :4
+Numero de Procesos Ejecutados :54
+ Varname :smurfCounter = 1
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser::{0..1}
+ Varname :reportUIF::{0..1}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 7 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :4
+Numero de Procesos Ejecutados :61
+ Varname :smurfCounter = 1
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser::{0..1}
+ Varname :reportUIF::{0..1}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 8 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :4
+Numero de Procesos Ejecutados :68
+ Varname :smurfCounter = 1
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser::{0..1}
+ Varname :reportUIF::{0..1}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 9 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :4
+Numero de Procesos Ejecutados :75
+ Varname :smurfCounter = 1
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser::{0..1}
+ Varname :reportUIF::{0..1}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 10 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :4
+Numero de Procesos Ejecutados :87
+ Varname :smurfCounter = 1
+ Varname :txnAmount = 9000
+ Varname :incoming = 1
+ Varname :blockUser::{0..1}
+ Varname :reportUIF::{0..1}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 11 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :3
+Numero de Procesos Ejecutados :93
+ Varname :smurfCounter = 2
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser::{0..1}
+ Varname :reportUIF::{0..1}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 12 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :3
+Numero de Procesos Ejecutados :99
+ Varname :smurfCounter = 2
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser::{0..1}
+ Varname :reportUIF::{0..1}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 13 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :3
+Numero de Procesos Ejecutados :105
+ Varname :smurfCounter = 2
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser::{0..1}
+ Varname :reportUIF::{0..1}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 14 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :3
+Numero de Procesos Ejecutados :111
+ Varname :smurfCounter = 2
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser::{0..1}
+ Varname :reportUIF::{0..1}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 15 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :3
+Numero de Procesos Ejecutados :122
+ Varname :smurfCounter = 2
+ Varname :txnAmount = 9000
+ Varname :incoming = 1
+ Varname :blockUser::{0..1}
+ Varname :reportUIF::{0..1}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 16 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :2
+Numero de Procesos Ejecutados :130
+ Varname :smurfCounter = 3
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 17 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :2
+Numero de Procesos Ejecutados :138
+ Varname :smurfCounter = 3
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 18 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :2
+Numero de Procesos Ejecutados :146
+ Varname :smurfCounter = 3
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 19 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :2
+Numero de Procesos Ejecutados :154
+ Varname :smurfCounter = 3
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 20 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :2
+Numero de Procesos Ejecutados :167
+ Varname :smurfCounter = 3
+ Varname :txnAmount = 9000
+ Varname :incoming = 1
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 21 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :174
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 22 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :181
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 23 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :188
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 24 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :195
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 25 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :202
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 26 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :209
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 27 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :216
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 28 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :223
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 29 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :230
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 30 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :237
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 31 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :244
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 32 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :251
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 33 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :258
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 34 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :265
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 35 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :272
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 36 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :279
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 37 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :286
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 38 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :293
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 39 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :300
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 40 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :307
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 41 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :314
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 42 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :321
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 43 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :328
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 44 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :335
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 45 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :342
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 46 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :349
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 47 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :356
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 48 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :363
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 49 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :370
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 50 Generada... Thu Nov 05 18:29:47 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :377
+ Varname :smurfCounter = 4
+ Varname :txnAmount::{0..100000}
+ Varname :incoming::{0..1}
+ Varname :blockUser = 1
+ Varname :reportUIF = 1
+
+ **** Fin de la Unidad **** 

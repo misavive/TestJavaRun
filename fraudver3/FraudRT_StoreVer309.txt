@@ -1,0 +1,380 @@
+ *** Avispa Research Group - Misael Viveros Castro *** 
+  *** jNtcc Virtual Machine - Datos del Store *** 
+
+ Unidad de Tiempo --> 1 Generada... Sat Nov 15 21:25:38 COT 2025
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..4}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 2 Generada... Sat Nov 15 21:25:38 COT 2025
+Procesos ejecutados En la Unidada :3
+Numero de Procesos Ejecutados :30
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..4}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 3 Generada... Sat Nov 15 21:25:38 COT 2025
+Procesos ejecutados En la Unidada :3
+Numero de Procesos Ejecutados :54
+ Varname :incomingTxn = 1
+ Varname :txnCountry = 0
+ Varname :txnAmount = 120000
+ Varname :txnDeltaMin = 10
+ Varname :deviceOk = 1
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..4}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 4 Generada... Sat Nov 15 21:25:38 COT 2025
+Procesos ejecutados En la Unidada :2
+Numero de Procesos Ejecutados :67
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..4}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 5 Generada... Sat Nov 15 21:25:38 COT 2025
+Procesos ejecutados En la Unidada :2
+Numero de Procesos Ejecutados :80
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..4}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 6 Generada... Sat Nov 15 21:25:38 COT 2025
+Procesos ejecutados En la Unidada :2
+Numero de Procesos Ejecutados :108
+ Varname :incomingTxn = 1
+ Varname :txnCountry = 1
+ Varname :txnAmount = 350000
+ Varname :txnDeltaMin = 1
+ Varname :deviceOk = 1
+ Varname :riskyGeo = 1
+ Varname :riskyVelocity = 1
+ Varname :riskyAmount = 1
+ Varname :riskyDevice::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block = 1
+ Varname :sumAll::{3..4}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 7 Generada... Sat Nov 15 21:25:38 COT 2025
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :120
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..4}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 8 Generada... Sat Nov 15 21:25:38 COT 2025
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :132
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..4}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 9 Generada... Sat Nov 15 21:25:38 COT 2025
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :144
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..4}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 10 Generada... Sat Nov 15 21:25:38 COT 2025
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :156
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..4}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 11 Generada... Sat Nov 15 21:25:38 COT 2025
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :168
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..4}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 12 Generada... Sat Nov 15 21:25:38 COT 2025
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :180
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..4}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 13 Generada... Sat Nov 15 21:25:38 COT 2025
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :192
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..4}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 14 Generada... Sat Nov 15 21:25:38 COT 2025
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :204
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..4}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 15 Generada... Sat Nov 15 21:25:38 COT 2025
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :216
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..4}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 16 Generada... Sat Nov 15 21:25:38 COT 2025
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :228
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..4}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 17 Generada... Sat Nov 15 21:25:38 COT 2025
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :240
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..4}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 18 Generada... Sat Nov 15 21:25:38 COT 2025
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :252
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..4}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 19 Generada... Sat Nov 15 21:25:38 COT 2025
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :264
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..4}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 20 Generada... Sat Nov 15 21:25:38 COT 2025
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :276
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..4}
+
+ **** Fin de la Unidad **** 

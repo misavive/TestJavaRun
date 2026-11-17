@@ -1,0 +1,216 @@
+ *** Avispa Research Group - Misael Viveros Castro *** 
+  *** jNtcc Virtual Machine - Datos del Store *** 
+
+ Unidad de Tiempo --> 1 Generada... Mon Nov 16 18:08:46 COT 2026
+ Varname :paisTx = 1
+ Varname :montoTx = 30
+ Varname :dispSospechoso = 0
+ Varname :rastroLocal::{0..1}
+ Varname :velImposible::{0..1}
+ Varname :decision = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 2 Generada... Mon Nov 16 18:08:46 COT 2026
+Procesos ejecutados En la Unidada :9
+Numero de Procesos Ejecutados :35
+ Varname :paisTx::{0..2}
+ Varname :montoTx::{0..10000}
+ Varname :dispSospechoso::{0..1}
+ Varname :rastroLocal = 1
+ Varname :velImposible::{0..1}
+ Varname :decision::{0..3}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 3 Generada... Mon Nov 16 18:08:46 COT 2026
+Procesos ejecutados En la Unidada :8
+Numero de Procesos Ejecutados :48
+ Varname :paisTx::{0..2}
+ Varname :montoTx::{0..10000}
+ Varname :dispSospechoso::{0..1}
+ Varname :rastroLocal = 1
+ Varname :velImposible::{0..1}
+ Varname :decision::{0..3}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 4 Generada... Mon Nov 16 18:08:46 COT 2026
+Procesos ejecutados En la Unidada :7
+Numero de Procesos Ejecutados :73
+ Varname :paisTx = 2
+ Varname :montoTx = 650
+ Varname :dispSospechoso = 0
+ Varname :rastroLocal = 1
+ Varname :velImposible = 1
+ Varname :decision = 3
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 5 Generada... Mon Nov 16 18:08:46 COT 2026
+Procesos ejecutados En la Unidada :5
+Numero de Procesos Ejecutados :83
+ Varname :paisTx::{0..2}
+ Varname :montoTx::{0..10000}
+ Varname :dispSospechoso::{0..1}
+ Varname :rastroLocal::{0..1}
+ Varname :velImposible::{0..1}
+ Varname :decision::{0..3}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 6 Generada... Mon Nov 16 18:08:46 COT 2026
+Procesos ejecutados En la Unidada :5
+Numero de Procesos Ejecutados :93
+ Varname :paisTx::{0..2}
+ Varname :montoTx::{0..10000}
+ Varname :dispSospechoso::{0..1}
+ Varname :rastroLocal::{0..1}
+ Varname :velImposible::{0..1}
+ Varname :decision::{0..3}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 1 Generada... Mon Nov 16 18:22:27 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :25
+ Varname :paisTx = 1
+ Varname :montoTx = 30
+ Varname :dispSospechoso = 0
+ Varname :rastroLocal = 1
+ Varname :velImposible = 1
+ Varname :decision = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 2 Generada... Mon Nov 16 18:22:27 COT 2026
+Procesos ejecutados En la Unidada :9
+Numero de Procesos Ejecutados :39
+ Varname :paisTx::{0..2}
+ Varname :montoTx::{0..10000}
+ Varname :dispSospechoso::{0..1}
+ Varname :rastroLocal = 1
+ Varname :velImposible::{0..1}
+ Varname :decision::{0..3}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 3 Generada... Mon Nov 16 18:22:27 COT 2026
+Procesos ejecutados En la Unidada :8
+Numero de Procesos Ejecutados :65
+ Varname :paisTx = 2
+ Varname :montoTx::{0..500}
+ Varname :dispSospechoso = 0
+ Varname :rastroLocal = 1
+ Varname :velImposible = 1
+ Varname :decision = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 4 Generada... Mon Nov 16 18:22:27 COT 2026
+Procesos ejecutados En la Unidada :6
+Numero de Procesos Ejecutados :76
+ Varname :paisTx::{0..2}
+ Varname :montoTx::{0..10000}
+ Varname :dispSospechoso::{0..1}
+ Varname :rastroLocal = 1
+ Varname :velImposible::{0..1}
+ Varname :decision::{0..3}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 5 Generada... Mon Nov 16 18:22:27 COT 2026
+Procesos ejecutados En la Unidada :5
+Numero de Procesos Ejecutados :86
+ Varname :paisTx::{0..2}
+ Varname :montoTx::{0..10000}
+ Varname :dispSospechoso::{0..1}
+ Varname :rastroLocal::{0..1}
+ Varname :velImposible::{0..1}
+ Varname :decision::{0..3}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 6 Generada... Mon Nov 16 18:22:27 COT 2026
+Procesos ejecutados En la Unidada :5
+Numero de Procesos Ejecutados :96
+ Varname :paisTx::{0..2}
+ Varname :montoTx::{0..10000}
+ Varname :dispSospechoso::{0..1}
+ Varname :rastroLocal::{0..1}
+ Varname :velImposible::{0..1}
+ Varname :decision::{0..3}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 1 Generada... Mon Nov 16 18:51:57 COT 2026
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :21
+ Varname :paisTx = 1
+ Varname :montoTx = 30
+ Varname :dispSospechoso = 0
+ Varname :rastroLocal::{0..1}
+ Varname :velImposible::{0..1}
+ Varname :decision = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 2 Generada... Mon Nov 16 18:51:57 COT 2026
+Procesos ejecutados En la Unidada :9
+Numero de Procesos Ejecutados :35
+ Varname :paisTx::{0..2}
+ Varname :montoTx::{0..10000}
+ Varname :dispSospechoso::{0..1}
+ Varname :rastroLocal = 1
+ Varname :velImposible::{0..1}
+ Varname :decision::{0..3}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 3 Generada... Mon Nov 16 18:51:57 COT 2026
+Procesos ejecutados En la Unidada :8
+Numero de Procesos Ejecutados :48
+ Varname :paisTx::{0..2}
+ Varname :montoTx::{0..10000}
+ Varname :dispSospechoso::{0..1}
+ Varname :rastroLocal = 1
+ Varname :velImposible::{0..1}
+ Varname :decision::{0..3}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 4 Generada... Mon Nov 16 18:51:57 COT 2026
+Procesos ejecutados En la Unidada :7
+Numero de Procesos Ejecutados :73
+ Varname :paisTx = 2
+ Varname :montoTx = 650
+ Varname :dispSospechoso = 0
+ Varname :rastroLocal = 1
+ Varname :velImposible = 1
+ Varname :decision = 3
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 5 Generada... Mon Nov 16 18:51:57 COT 2026
+Procesos ejecutados En la Unidada :5
+Numero de Procesos Ejecutados :83
+ Varname :paisTx::{0..2}
+ Varname :montoTx::{0..10000}
+ Varname :dispSospechoso::{0..1}
+ Varname :rastroLocal::{0..1}
+ Varname :velImposible::{0..1}
+ Varname :decision::{0..3}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 6 Generada... Mon Nov 16 18:51:57 COT 2026
+Procesos ejecutados En la Unidada :5
+Numero de Procesos Ejecutados :93
+ Varname :paisTx::{0..2}
+ Varname :montoTx::{0..10000}
+ Varname :dispSospechoso::{0..1}
+ Varname :rastroLocal::{0..1}
+ Varname :velImposible::{0..1}
+ Varname :decision::{0..3}
+
+ **** Fin de la Unidad **** 

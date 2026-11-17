@@ -1,0 +1,580 @@
+ *** Avispa Research Group - Misael Viveros Castro *** 
+  *** jNtcc Virtual Machine - Datos del Store *** 
+
+ Unidad de Tiempo --> 1 Generada... Tue Nov 18 23:09:10 COT 2025
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :countryRisk::{0..10}
+ Varname :txnHour::{0..23}
+ Varname :freqCounter::{0..100}
+ Varname :amountJumpCounter::{0..100}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :riskyHighRiskCountry::{0..1}
+ Varname :riskyNight::{0..1}
+ Varname :riskyFrequency::{0..1}
+ Varname :riskyAmountJump::{0..1}
+ Varname :riskyGeoAmountCombo::{0..1}
+ Varname :riskyDeviceLate::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..15}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 2 Generada... Tue Nov 18 23:09:10 COT 2025
+Procesos ejecutados En la Unidada :4
+Numero de Procesos Ejecutados :46
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :countryRisk::{0..10}
+ Varname :txnHour::{0..23}
+ Varname :freqCounter::{0..100}
+ Varname :amountJumpCounter::{0..100}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :riskyHighRiskCountry::{0..1}
+ Varname :riskyNight::{0..1}
+ Varname :riskyFrequency::{0..1}
+ Varname :riskyAmountJump::{0..1}
+ Varname :riskyGeoAmountCombo::{0..1}
+ Varname :riskyDeviceLate::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..15}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 3 Generada... Tue Nov 18 23:09:10 COT 2025
+Procesos ejecutados En la Unidada :4
+Numero de Procesos Ejecutados :68
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :countryRisk::{0..10}
+ Varname :txnHour::{0..23}
+ Varname :freqCounter::{0..100}
+ Varname :amountJumpCounter::{0..100}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :riskyHighRiskCountry::{0..1}
+ Varname :riskyNight::{0..1}
+ Varname :riskyFrequency::{0..1}
+ Varname :riskyAmountJump::{0..1}
+ Varname :riskyGeoAmountCombo::{0..1}
+ Varname :riskyDeviceLate::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..15}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 4 Generada... Tue Nov 18 23:09:10 COT 2025
+Procesos ejecutados En la Unidada :4
+Numero de Procesos Ejecutados :90
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :countryRisk::{0..10}
+ Varname :txnHour::{0..23}
+ Varname :freqCounter::{0..100}
+ Varname :amountJumpCounter::{0..100}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :riskyHighRiskCountry::{0..1}
+ Varname :riskyNight::{0..1}
+ Varname :riskyFrequency::{0..1}
+ Varname :riskyAmountJump::{0..1}
+ Varname :riskyGeoAmountCombo::{0..1}
+ Varname :riskyDeviceLate::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..15}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 5 Generada... Tue Nov 18 23:09:10 COT 2025
+Procesos ejecutados En la Unidada :4
+Numero de Procesos Ejecutados :121
+ Varname :incomingTxn = 1
+ Varname :txnCountry = 0
+ Varname :txnAmount = 120000
+ Varname :txnDeltaMin = 10
+ Varname :deviceOk = 1
+ Varname :countryRisk = 2
+ Varname :txnHour = 10
+ Varname :freqCounter::{0..100}
+ Varname :amountJumpCounter::{0..100}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :riskyHighRiskCountry::{0..1}
+ Varname :riskyNight::{0..1}
+ Varname :riskyFrequency::{0..1}
+ Varname :riskyAmountJump::{0..1}
+ Varname :riskyGeoAmountCombo::{0..1}
+ Varname :riskyDeviceLate::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..15}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 6 Generada... Tue Nov 18 23:09:10 COT 2025
+Procesos ejecutados En la Unidada :3
+Numero de Procesos Ejecutados :142
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :countryRisk::{0..10}
+ Varname :txnHour::{0..23}
+ Varname :freqCounter = 1
+ Varname :amountJumpCounter::{0..100}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :riskyHighRiskCountry::{0..1}
+ Varname :riskyNight::{0..1}
+ Varname :riskyFrequency::{0..1}
+ Varname :riskyAmountJump::{0..1}
+ Varname :riskyGeoAmountCombo::{0..1}
+ Varname :riskyDeviceLate::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..15}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 7 Generada... Tue Nov 18 23:09:10 COT 2025
+Procesos ejecutados En la Unidada :3
+Numero de Procesos Ejecutados :163
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :countryRisk::{0..10}
+ Varname :txnHour::{0..23}
+ Varname :freqCounter = 1
+ Varname :amountJumpCounter::{0..100}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :riskyHighRiskCountry::{0..1}
+ Varname :riskyNight::{0..1}
+ Varname :riskyFrequency::{0..1}
+ Varname :riskyAmountJump::{0..1}
+ Varname :riskyGeoAmountCombo::{0..1}
+ Varname :riskyDeviceLate::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..15}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 8 Generada... Tue Nov 18 23:09:10 COT 2025
+Procesos ejecutados En la Unidada :3
+Numero de Procesos Ejecutados :184
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :countryRisk::{0..10}
+ Varname :txnHour::{0..23}
+ Varname :freqCounter = 1
+ Varname :amountJumpCounter::{0..100}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :riskyHighRiskCountry::{0..1}
+ Varname :riskyNight::{0..1}
+ Varname :riskyFrequency::{0..1}
+ Varname :riskyAmountJump::{0..1}
+ Varname :riskyGeoAmountCombo::{0..1}
+ Varname :riskyDeviceLate::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..15}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 9 Generada... Tue Nov 18 23:09:10 COT 2025
+Procesos ejecutados En la Unidada :3
+Numero de Procesos Ejecutados :197
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :countryRisk::{0..10}
+ Varname :txnHour::{0..23}
+ Varname :freqCounter = 1
+ Varname :amountJumpCounter::{0..100}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :riskyHighRiskCountry::{0..1}
+ Varname :riskyNight::{0..1}
+ Varname :riskyFrequency::{0..1}
+ Varname :riskyAmountJump::{0..1}
+ Varname :riskyGeoAmountCombo::{0..1}
+ Varname :riskyDeviceLate::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..15}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 10 Generada... Tue Nov 18 23:09:10 COT 2025
+Procesos ejecutados En la Unidada :3
+Numero de Procesos Ejecutados :226
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :countryRisk::{0..10}
+ Varname :txnHour::{0..23}
+ Varname :freqCounter = 1
+ Varname :amountJumpCounter::{0..100}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :riskyHighRiskCountry::{0..1}
+ Varname :riskyNight::{0..1}
+ Varname :riskyFrequency::{0..1}
+ Varname :riskyAmountJump::{0..1}
+ Varname :riskyGeoAmountCombo::{0..1}
+ Varname :riskyDeviceLate::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..15}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 11 Generada... Tue Nov 18 23:09:10 COT 2025
+Procesos ejecutados En la Unidada :3
+Numero de Procesos Ejecutados :241
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :countryRisk::{0..10}
+ Varname :txnHour::{0..23}
+ Varname :freqCounter = 1
+ Varname :amountJumpCounter::{0..100}
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :riskyHighRiskCountry::{0..1}
+ Varname :riskyNight::{0..1}
+ Varname :riskyFrequency::{0..1}
+ Varname :riskyAmountJump::{0..1}
+ Varname :riskyGeoAmountCombo::{0..1}
+ Varname :riskyDeviceLate::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..15}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 12 Generada... Tue Nov 18 23:09:10 COT 2025
+Procesos ejecutados En la Unidada :3
+Numero de Procesos Ejecutados :281
+ Varname :incomingTxn = 1
+ Varname :txnCountry = 1
+ Varname :txnAmount = 500000
+ Varname :txnDeltaMin = 2
+ Varname :deviceOk = 1
+ Varname :countryRisk = 8
+ Varname :txnHour = 23
+ Varname :freqCounter = 1
+ Varname :amountJumpCounter::{2..100}
+ Varname :riskyGeo = 1
+ Varname :riskyVelocity = 1
+ Varname :riskyAmount = 1
+ Varname :riskyDevice::{0..1}
+ Varname :riskyHighRiskCountry = 1
+ Varname :riskyNight::{0..1}
+ Varname :riskyFrequency::{0..1}
+ Varname :riskyAmountJump = 1
+ Varname :riskyGeoAmountCombo = 1
+ Varname :riskyDeviceLate::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block = 1
+ Varname :sumAll::{8..15}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 13 Generada... Tue Nov 18 23:09:10 COT 2025
+Procesos ejecutados En la Unidada :2
+Numero de Procesos Ejecutados :307
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :countryRisk::{0..10}
+ Varname :txnHour::{0..23}
+ Varname :freqCounter = 2
+ Varname :amountJumpCounter = 1
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :riskyHighRiskCountry::{0..1}
+ Varname :riskyNight::{0..1}
+ Varname :riskyFrequency::{0..1}
+ Varname :riskyAmountJump::{0..1}
+ Varname :riskyGeoAmountCombo::{0..1}
+ Varname :riskyDeviceLate::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..15}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 14 Generada... Tue Nov 18 23:09:10 COT 2025
+Procesos ejecutados En la Unidada :2
+Numero de Procesos Ejecutados :327
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :countryRisk::{0..10}
+ Varname :txnHour::{0..23}
+ Varname :freqCounter = 2
+ Varname :amountJumpCounter = 1
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :riskyHighRiskCountry::{0..1}
+ Varname :riskyNight::{0..1}
+ Varname :riskyFrequency::{0..1}
+ Varname :riskyAmountJump::{0..1}
+ Varname :riskyGeoAmountCombo::{0..1}
+ Varname :riskyDeviceLate::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..15}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 15 Generada... Tue Nov 18 23:09:10 COT 2025
+Procesos ejecutados En la Unidada :2
+Numero de Procesos Ejecutados :364
+ Varname :incomingTxn = 1
+ Varname :txnCountry = 1
+ Varname :txnAmount = 350000
+ Varname :txnDeltaMin = 1
+ Varname :deviceOk = 1
+ Varname :countryRisk = 6
+ Varname :txnHour = 14
+ Varname :freqCounter = 2
+ Varname :amountJumpCounter = 1
+ Varname :riskyGeo = 1
+ Varname :riskyVelocity = 1
+ Varname :riskyAmount = 1
+ Varname :riskyDevice::{0..1}
+ Varname :riskyHighRiskCountry::{0..1}
+ Varname :riskyNight::{0..1}
+ Varname :riskyFrequency::{0..1}
+ Varname :riskyAmountJump::{0..1}
+ Varname :riskyGeoAmountCombo = 1
+ Varname :riskyDeviceLate::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag = 1
+ Varname :block::{0..1}
+ Varname :sumAll::{5..15}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 16 Generada... Tue Nov 18 23:09:10 COT 2025
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :384
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :countryRisk::{0..10}
+ Varname :txnHour::{0..23}
+ Varname :freqCounter = 3
+ Varname :amountJumpCounter = 2
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :riskyHighRiskCountry::{0..1}
+ Varname :riskyNight::{0..1}
+ Varname :riskyFrequency::{0..1}
+ Varname :riskyAmountJump = 1
+ Varname :riskyGeoAmountCombo::{0..1}
+ Varname :riskyDeviceLate::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{1..15}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 17 Generada... Tue Nov 18 23:09:10 COT 2025
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :398
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :countryRisk::{0..10}
+ Varname :txnHour::{0..23}
+ Varname :freqCounter = 3
+ Varname :amountJumpCounter = 2
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :riskyHighRiskCountry::{0..1}
+ Varname :riskyNight::{0..1}
+ Varname :riskyFrequency::{0..1}
+ Varname :riskyAmountJump = 1
+ Varname :riskyGeoAmountCombo::{0..1}
+ Varname :riskyDeviceLate::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{0..15}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 18 Generada... Tue Nov 18 23:09:10 COT 2025
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :424
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :countryRisk::{0..10}
+ Varname :txnHour::{0..23}
+ Varname :freqCounter = 3
+ Varname :amountJumpCounter = 2
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :riskyHighRiskCountry::{0..1}
+ Varname :riskyNight::{0..1}
+ Varname :riskyFrequency::{0..1}
+ Varname :riskyAmountJump = 1
+ Varname :riskyGeoAmountCombo::{0..1}
+ Varname :riskyDeviceLate::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{1..15}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 19 Generada... Tue Nov 18 23:09:10 COT 2025
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :444
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :countryRisk::{0..10}
+ Varname :txnHour::{0..23}
+ Varname :freqCounter = 3
+ Varname :amountJumpCounter = 2
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :riskyHighRiskCountry::{0..1}
+ Varname :riskyNight::{0..1}
+ Varname :riskyFrequency::{0..1}
+ Varname :riskyAmountJump = 1
+ Varname :riskyGeoAmountCombo::{0..1}
+ Varname :riskyDeviceLate::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{1..15}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 20 Generada... Tue Nov 18 23:09:10 COT 2025
+Procesos ejecutados En la Unidada :1
+Numero de Procesos Ejecutados :464
+ Varname :incomingTxn::{0..1}
+ Varname :txnCountry::{0..1}
+ Varname :txnAmount::{0..1000000}
+ Varname :txnDeltaMin::{0..60}
+ Varname :deviceOk::{0..1}
+ Varname :countryRisk::{0..10}
+ Varname :txnHour::{0..23}
+ Varname :freqCounter = 3
+ Varname :amountJumpCounter = 2
+ Varname :riskyGeo::{0..1}
+ Varname :riskyVelocity::{0..1}
+ Varname :riskyAmount::{0..1}
+ Varname :riskyDevice::{0..1}
+ Varname :riskyHighRiskCountry::{0..1}
+ Varname :riskyNight::{0..1}
+ Varname :riskyFrequency::{0..1}
+ Varname :riskyAmountJump = 1
+ Varname :riskyGeoAmountCombo::{0..1}
+ Varname :riskyDeviceLate::{0..1}
+ Varname :approve::{0..1}
+ Varname :flag::{0..1}
+ Varname :block::{0..1}
+ Varname :sumAll::{1..15}
+
+ **** Fin de la Unidad **** 

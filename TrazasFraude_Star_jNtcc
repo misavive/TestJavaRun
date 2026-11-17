@@ -1,0 +1,135 @@
+ *** Avispa Research Group - Misael Viveros Castro *** 
+  *** jNtcc Virtual Machine - Datos del Store *** 
+
+ Unidad de Tiempo --> 1 Generada... Thu Nov 05 21:28:43 COT 2026
+ Varname :montoTx::{0..10000}
+ Varname :riesgo::{0..1000}
+ Varname :bloqueada::{0..1}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 2 Generada... Thu Nov 05 21:28:43 COT 2026
+Procesos ejecutados En la Unidada :7
+Numero de Procesos Ejecutados :24
+ Varname :montoTx::{0..10000}
+ Varname :riesgo = 0
+ Varname :bloqueada = 0
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 3 Generada... Thu Nov 05 21:28:43 COT 2026
+Procesos ejecutados En la Unidada :7
+Numero de Procesos Ejecutados :34
+ Varname :montoTx::{0..10000}
+ Varname :riesgo::{0..1000}
+ Varname :bloqueada = 0
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 4 Generada... Thu Nov 05 21:28:43 COT 2026
+Procesos ejecutados En la Unidada :7
+Numero de Procesos Ejecutados :46
+ Varname :montoTx = 900
+ Varname :riesgo::{0..1000}
+ Varname :bloqueada = 0
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 5 Generada... Thu Nov 05 21:28:43 COT 2026
+Procesos ejecutados En la Unidada :5
+Numero de Procesos Ejecutados :54
+ Varname :montoTx::{0..10000}
+ Varname :riesgo = 40
+ Varname :bloqueada = 0
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 6 Generada... Thu Nov 05 21:28:43 COT 2026
+Procesos ejecutados En la Unidada :6
+Numero de Procesos Ejecutados :64
+ Varname :montoTx = 900
+ Varname :riesgo = 40
+ Varname :bloqueada = 0
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 7 Generada... Thu Nov 05 21:28:43 COT 2026
+Procesos ejecutados En la Unidada :4
+Numero de Procesos Ejecutados :79
+ Varname :montoTx::{0..10000}
+ Varname :riesgo = 80
+ Varname :bloqueada = 0
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 8 Generada... Thu Nov 05 21:28:43 COT 2026
+Procesos ejecutados En la Unidada :5
+Numero de Procesos Ejecutados :90
+ Varname :montoTx::{0..10000}
+ Varname :riesgo = 80
+ Varname :bloqueada = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 9 Generada... Thu Nov 05 21:28:43 COT 2026
+Procesos ejecutados En la Unidada :5
+Numero de Procesos Ejecutados :101
+ Varname :montoTx::{0..10000}
+ Varname :riesgo = 75
+ Varname :bloqueada = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 10 Generada... Thu Nov 05 21:28:43 COT 2026
+Procesos ejecutados En la Unidada :5
+Numero de Procesos Ejecutados :109
+ Varname :montoTx::{0..10000}
+ Varname :riesgo = 70
+ Varname :bloqueada = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 11 Generada... Thu Nov 05 21:28:43 COT 2026
+Procesos ejecutados En la Unidada :5
+Numero de Procesos Ejecutados :117
+ Varname :montoTx::{0..10000}
+ Varname :riesgo = 65
+ Varname :bloqueada = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 12 Generada... Thu Nov 05 21:28:43 COT 2026
+Procesos ejecutados En la Unidada :5
+Numero de Procesos Ejecutados :125
+ Varname :montoTx::{0..10000}
+ Varname :riesgo = 60
+ Varname :bloqueada = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 13 Generada... Thu Nov 05 21:28:43 COT 2026
+Procesos ejecutados En la Unidada :5
+Numero de Procesos Ejecutados :133
+ Varname :montoTx::{0..10000}
+ Varname :riesgo = 55
+ Varname :bloqueada = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 14 Generada... Thu Nov 05 21:28:43 COT 2026
+Procesos ejecutados En la Unidada :5
+Numero de Procesos Ejecutados :143
+ Varname :montoTx = 900
+ Varname :riesgo = 50
+ Varname :bloqueada = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 15 Generada... Thu Nov 05 21:28:43 COT 2026
+Procesos ejecutados En la Unidada :3
+Numero de Procesos Ejecutados :152
+ Varname :montoTx::{0..10000}
+ Varname :riesgo = 90
+ Varname :bloqueada = 1
+
+ **** Fin de la Unidad **** 

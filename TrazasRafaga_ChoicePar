@@ -1,0 +1,119 @@
+ *** Avispa Research Group - Misael Viveros Castro *** 
+  *** jNtcc Virtual Machine - Datos del Store *** 
+
+ Unidad de Tiempo --> 1 Generada... Mon Nov 16 20:02:08 COT 2026
+ Varname :paisTx = 1
+ Varname :montoC1 = 30
+ Varname :montoC2 = 0
+ Varname :montoTotal = 30
+ Varname :dispSospechoso = 0
+ Varname :rastroLocal::{0..1}
+ Varname :velImposible::{0..1}
+ Varname :ataqueRafaga::{0..1}
+ Varname :reto2FA::{0..1}
+ Varname :tokenCliente::{0..1}
+ Varname :decision = 1
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 2 Generada... Mon Nov 16 20:02:08 COT 2026
+Procesos ejecutados En la Unidada :9
+Numero de Procesos Ejecutados :36
+ Varname :paisTx::{0..2}
+ Varname :montoC1::{0..5000}
+ Varname :montoC2::{0..5000}
+ Varname :montoTotal::{0..10000}
+ Varname :dispSospechoso::{0..1}
+ Varname :rastroLocal = 1
+ Varname :velImposible::{0..1}
+ Varname :ataqueRafaga::{0..1}
+ Varname :reto2FA::{0..1}
+ Varname :tokenCliente::{0..1}
+ Varname :decision::{0..3}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 3 Generada... Mon Nov 16 20:02:08 COT 2026
+Procesos ejecutados En la Unidada :8
+Numero de Procesos Ejecutados :67
+ Varname :paisTx = 2
+ Varname :montoC1 = 480
+ Varname :montoC2 = 450
+ Varname :montoTotal = 930
+ Varname :dispSospechoso = 0
+ Varname :rastroLocal = 1
+ Varname :velImposible = 1
+ Varname :ataqueRafaga = 1
+ Varname :reto2FA::{0..1}
+ Varname :tokenCliente::{0..1}
+ Varname :decision = 3
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 4 Generada... Mon Nov 16 20:02:08 COT 2026
+Procesos ejecutados En la Unidada :6
+Numero de Procesos Ejecutados :78
+ Varname :paisTx::{0..2}
+ Varname :montoC1::{0..5000}
+ Varname :montoC2::{0..5000}
+ Varname :montoTotal::{0..10000}
+ Varname :dispSospechoso::{0..1}
+ Varname :rastroLocal = 1
+ Varname :velImposible::{0..1}
+ Varname :ataqueRafaga::{0..1}
+ Varname :reto2FA::{0..1}
+ Varname :tokenCliente::{0..1}
+ Varname :decision::{0..3}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 5 Generada... Mon Nov 16 20:02:08 COT 2026
+Procesos ejecutados En la Unidada :5
+Numero de Procesos Ejecutados :88
+ Varname :paisTx::{0..2}
+ Varname :montoC1::{0..5000}
+ Varname :montoC2::{0..5000}
+ Varname :montoTotal::{0..10000}
+ Varname :dispSospechoso::{0..1}
+ Varname :rastroLocal::{0..1}
+ Varname :velImposible::{0..1}
+ Varname :ataqueRafaga::{0..1}
+ Varname :reto2FA::{0..1}
+ Varname :tokenCliente::{0..1}
+ Varname :decision::{0..3}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 6 Generada... Mon Nov 16 20:02:08 COT 2026
+Procesos ejecutados En la Unidada :5
+Numero de Procesos Ejecutados :98
+ Varname :paisTx::{0..2}
+ Varname :montoC1::{0..5000}
+ Varname :montoC2::{0..5000}
+ Varname :montoTotal::{0..10000}
+ Varname :dispSospechoso::{0..1}
+ Varname :rastroLocal::{0..1}
+ Varname :velImposible::{0..1}
+ Varname :ataqueRafaga::{0..1}
+ Varname :reto2FA::{0..1}
+ Varname :tokenCliente::{0..1}
+ Varname :decision::{0..3}
+
+ **** Fin de la Unidad **** 
+
+ Unidad de Tiempo --> 7 Generada... Mon Nov 16 20:02:08 COT 2026
+Procesos ejecutados En la Unidada :5
+Numero de Procesos Ejecutados :108
+ Varname :paisTx::{0..2}
+ Varname :montoC1::{0..5000}
+ Varname :montoC2::{0..5000}
+ Varname :montoTotal::{0..10000}
+ Varname :dispSospechoso::{0..1}
+ Varname :rastroLocal::{0..1}
+ Varname :velImposible::{0..1}
+ Varname :ataqueRafaga::{0..1}
+ Varname :reto2FA::{0..1}
+ Varname :tokenCliente::{0..1}
+ Varname :decision::{0..3}
+
+ **** Fin de la Unidad **** 
